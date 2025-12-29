@@ -383,3 +383,38 @@ footer {
     color: #444;
   }
 }
+/* Add these styles to the bottom of your styles.css file */
+
+/* ===== Status Pills (for NDA/Private projects) ===== */
+.pill.status-private {
+  background: linear-gradient(90deg, #e8e8e8, #f5f5f5);
+  cursor: default;
+  color: #666;
+}
+
+.pill.status-nda {
+  background: linear-gradient(90deg, var(--green2), #e8f5e9);
+  cursor: pointer;
+}
+
+.pill.status-demo {
+  background: linear-gradient(90deg, var(--pink2), #fce4ec);
+}
+
+.pill.status-award {
+  background: linear-gradient(90deg, #fff4e6, #ffe8cc);
+  color: #d97706;
+  font-weight: 700;
+}
+
+.pill.status-code {
+  background: linear-gradient(90deg, #e0e7ff, #dbeafe);
+  cursor: pointer;
+}
+
+/* Prevent hover effects on status-only pills */
+.pill.status-private:hover {
+  transform: none;
+  box-shadow: none;
+  text-decoration: none;
+}
