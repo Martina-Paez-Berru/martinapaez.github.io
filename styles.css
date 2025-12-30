@@ -2,15 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,650&display=swap');
 
 :root {
-  --bg: #fbfffb;
+  --bg: #f8fef8;
   --text: #2b2b2b;
   --muted: #5f6b66;
   --card: #ffffff;
   --border: rgba(0,0,0,0.08);
-  --green: #7bcfa9;
-  --green2: #e7fff3;
-  --pink: #ff9dc2;
-  --pink2: #ffe6f0;
+  --green: #4db88d;
+  --green2: #c7f5df;
+  --pink: #ff7aad;
+  --pink2: #ffc7e0;
   --link: #2f8f6b;
   --linkHover: #d65286;
   --shadow: 0 12px 30px rgba(0,0,0,0.08);
