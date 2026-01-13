@@ -2,7 +2,7 @@
 
 I am an applied data scientist and AI engineer from Quito, Ecuador, fascinated by how advanced models become real systems that shape economies, infrastructure, and everyday decisions.
 
-I have build production-grade AI systems that go from enterprise RAG pipelines and agentic workflows to large-scale forecasting engines, and that turn complex data into real operational and business impact. I care deeply about building models that are not only accurate, but auditable, scalable, and responsibly deployed, especially in areas like energy, sustainability, finance, and infrastructure where technology directly affects people’s lives.
+I have build production-grade AI systems that go from enterprise RAG pipelines and agentic workflows to large-scale forecasting engines, and that turn complex data into real operational and business impact. I care deeply about building models that are not only accurate, but auditable, scalable, and responsibly deployed, especially in areas like energy, sustainability, finance, and infrastructure where technology directly affects people's lives.
 
 Curious by nature and driven by continuous learning, I am seeking Applied AI / ML Engineering and Quantitative Research roles in fintech, infrastructure analytics, and enterprise AI: across diverse industries where advanced models meet real people, real capital, and real-world consequences.
 
@@ -22,7 +22,7 @@ Curious by nature and driven by continuous learning, I am seeking Applied AI / M
   </div>
   <div class="project-links">
     <span class="pill status-award">🏆 Competition Winner</span>
-    <a href="assets/AWS_Bedrock_Presentation.pptx" target="_blank" class="pill">📊 Presentation</a>
+    <a href="assets/AWS_Bedrock_Presentation.pptx" download class="pill">📊 Presentation</a>
     <span class="pill status-private">🔒 Private Repository</span>
   </div>
 </div>
@@ -79,7 +79,7 @@ Curious by nature and driven by continuous learning, I am seeking Applied AI / M
     <img src="assets/img/framework_architecture_scoremachine_gan.png" alt="Architecture diagram" class="project-img gallery-trigger" data-gallery="gan" style="display:none;">
   </div>
   <div class="project-links">
-    <a href="assets/Conference_Poster_Fall_2025_GANS.pptx" target="_blank" class="pill">📊 Research Poster</a>
+    <a href="assets/Conference_Poster_Fall_2025_GANS.pptx" download class="pill">📊 Research Poster</a>
     <span class="pill status-nda">📄 Thesis (NDA - Ask2.ai)</span>
   </div>
 </div>
@@ -169,17 +169,50 @@ React, FastAPI, Playwright, Scrapy, Google APIs
 
 ## Experience
 
-**Deep Venture Partners** — Data Engineer | *Jun - Aug 2025*  
-Built full-stack AI automation for VC tech scouting with multi-agent workflows, real-time GPT-4 inference, and automated presentation generation across 25+ universities.
+<div class="projects-grid">
 
-**Columbia Engineering | Quantitative Research Lab (MathWorks)** — Project Manager & Data Scientist | *Jun - Aug 2025*  
-Led AI-powered investment ideation platform with Neo4j-ChromaDB graph database. Presented findings with Professor Robbins at MathWorks Research Summit. Reduced research time by >100 hours/month.
+<div class="project-card">
+  <h3>Deep Venture Partners</h3>
+  <p class="project-meta">Data Engineer | Jun - Aug 2025</p>
+  <p>Built full-stack AI automation for VC tech scouting with multi-agent workflows, real-time GPT-4 inference, and automated presentation generation across 25+ universities.</p>
+</div>
 
-**Ardian** — Data Scientist | *Jan - May 2025*  
-Developed 30-year electricity forecasting system using Databricks, RNN, and XGBoost on 1.5TB+ European market data.
+<div class="project-card">
+  <h3>Columbia Engineering | Quantitative Research Lab (MathWorks)</h3>
+  <p class="project-meta">Project Manager & Data Scientist | Jun - Aug 2025</p>
+  <p>Led AI-powered investment ideation platform with Neo4j-ChromaDB graph database. Presented findings with Professor Robbins at MathWorks Research Summit. Reduced research time by >100 hours/month.</p>
+</div>
 
-**Stratyfy** — Digital Marketing Freelancer | *Jan - Mar 2025*  
-Designed A/B testing strategy with causal inference, reducing CPC by 18% and achieving 2.10% CTR.
+<div class="project-card">
+  <h3>Ardian</h3>
+  <p class="project-meta">Data Scientist | Jan - May 2025</p>
+  <p>Developed 30-year electricity forecasting system using Databricks, RNN, and XGBoost on 1.5TB+ European market data.</p>
+</div>
+
+<div class="project-card">
+  <h3>Ask2.ai</h3>
+  <p class="project-meta">Data Scientist – Deep Learning Capstone Project | Sep - Dec 2025</p>
+  <p>Designed score-regularized bivariate Transformer-GAN to simulate private-equity cash-flow dynamics under extreme data scarcity (19 funds) using dual Wasserstein discriminators, hard-negative regularization, and nine domain-specific loss constraints to preserve J-curve shape; achieved accurate valley timing (Q13–19), high utility (0.958), and privacy (Wasserstein 0.059).</p>
+</div>
+
+<div class="project-card">
+  <h3>Columbia University - IEOR Department</h3>
+  <p class="project-meta">Course Assistant, IEOR E4101 Probability Statistics & Simulation | Sep - Dec 2025</p>
+  <p>Selected by IEOR faculty based on academic performance and technical interviews to support core probability & statistics course. Proctored and graded exams and assignments while supporting course administration and mentoring students in statistical modeling.</p>
+</div>
+
+<div class="project-card">
+  <h3>Stratyfy</h3>
+  <p class="project-meta">Digital Marketing Freelancer | Jan - Mar 2025</p>
+  <p>Designed A/B testing strategy with causal inference, reducing CPC by 18% and achieving 2.10% CTR.</p>
+</div>
+
+<div class="project-card coming-soon">
+  <h3>✨ More to Come!</h3>
+  <p>Additional experience and opportunities in development. Stay tuned for updates!</p>
+</div>
+
+</div>
 
 ---
 
